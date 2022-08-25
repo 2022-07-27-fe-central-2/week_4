@@ -18,5 +18,8 @@ promises:
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
 
+** look at this is a must!**
+  ** promises implementation: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Implementing_a_promise-based_API
+
 first class function: https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
 higher order function: https://www.geeksforgeeks.org/difference-between-first-class-and-higher-order-functions-in-javascript/
