@@ -1,0 +1,22 @@
+let vs var:
+https://www.programiz.com/javascript/let-vs-var
+
+function declaration vs function expression:
+- function declaration: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
+- function expression: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
+- arrow function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+The main difference between a function expression and a function declaration is the function name, which can be omitted in function expressions to create anonymous functions.
+A function expression can be used as an IIFE (Immediately Invoked Function Expression) which runs as soon as it is defined.
+- iife: https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
+callbacks:
+  - https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+  - https://www.programiz.com/javascript/callback
+  setTimeout: https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
+promises:
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+
+first class function: https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
+higher order function: https://www.geeksforgeeks.org/difference-between-first-class-and-higher-order-functions-in-javascript/
