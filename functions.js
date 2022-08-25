@@ -26,19 +26,16 @@ console.log(calcRectArea2(5, 6));
 // const array2 = [ 3, 4, 5, 6, 7, 8 ];
 
 
-// const combineArrays = (array1, array2) =>  {
-//   array1.slice()
-//   array1.splice((array1.length) / 2, 0,  ...array2)
-// }
+// const combineArrays = (array1, array2) =>  array1.splice((array1.length) / 2, 0,  ...array2)
 
 // console.log(array1)
 
-const combineArrays = (array1, array2) => {
-  const halfIndex = array1.length / 2
-  // console.log(halfIndex)
-  const firstHalf = array1.slice(0, halfIndex)
-  const secondHalf = array1.slice(halfIndex)
-  console.log(firstHalf.concat(array2).concat(secondHalf))
-}
+// const combineArrays = (array1, array2) => {
+//   const halfIndex = array1.length / 2
+//   // console.log(halfIndex)
+//   const firstHalf = array1.slice(0, halfIndex)
+//   const secondHalf = array1.slice(halfIndex)
+//   console.log(firstHalf.concat(array2).concat(secondHalf))
+// }
 
-combineArrays([1, 10], [2, 3, 4, 5, 6, 7, 8, 9] )
+// combineArrays([1, 10], [2, 3, 4, 5, 6, 7, 8, 9] )
