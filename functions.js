@@ -31,6 +31,7 @@ console.log(calcRectArea2(5, 6));
 // console.log(array1)
 
 // const combineArrays = (array1, array2) => {
+  // needs Math.floor or Math.round
 //   const halfIndex = array1.length / 2
 //   // console.log(halfIndex)
 //   const firstHalf = array1.slice(0, halfIndex)
